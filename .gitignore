@@ -40,3 +40,5 @@ yarn-debug
 logs
 *.tsbuildinfo
 .vite
+
+old-versions
